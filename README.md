@@ -1,6 +1,6 @@
 <p align="center">
-  ## Hi 👋, I'm Mushiur Rahman
-Machine Learning Enthusiast | NLP Learner | Data Management Explorer
+  <b>Hi 👋, I'm Mushiur Rahman</b><br>
+  <b>Machine Learning Enthusiast | NLP Learner | Data Management Explorer</b>
 </p>
 
 
