@@ -1,5 +1,7 @@
-## Hi 👋, I'm Mushiur Rahman
+<p align="center">
+  ## Hi 👋, I'm Mushiur Rahman
 Machine Learning Enthusiast | NLP Learner | Data Management Explorer
+</p>
 
 
 <!--
