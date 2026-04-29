@@ -1,4 +1,6 @@
 ## Hi 👋, I'm Mushiur Rahman
+Machine Learning Enthusiast | NLP Learner | Data Management Explorer
+
 
 <!--
 **rahmanmushiuraiub/rahmanmushiuraiub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
