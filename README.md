@@ -1,24 +1,55 @@
 <p align="center">
-  <b>Hi 👋, I'm Mushiur Rahman</b><br>
-  <b>Machine Learning Enthusiast | NLP Learner | Data Management Explorer</b>
+  <h1 align="center">Hi 👋, I'm Mushiur Rahman</h1>
+  <h3 align="center">
+    Machine Learning Enthusiast | NLP Learner | Data Management Explorer
+  </h3>
 </p>
 
+---
 
-<!--
-**rahmanmushiuraiub/rahmanmushiuraiub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Languages & Tools
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,java" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Github Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmanmushiuraiub&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanmushiuraiub&layout=compact&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=rahmanmushiuraiub)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rahmanmushiuraiub&show_icons=true&theme=tokyonight" 
+    height="180em"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanmushiuraiub&layout=compact&theme=tokyonight" 
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=rahmanmushiuraiub&theme=tokyonight" 
+  />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Natural Language Processing (NLP)
+- Data Analysis
+- Backend Development
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/rahmanmushiuraiub">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
