@@ -19,19 +19,19 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=rahmanmushiuraiub&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=rahmanmushiuraiub&show_icons=true&theme=tokyonight&hide_border=true"
     height="180em"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmanmushiuraiub&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rahmanmushiuraiub&layout=compact&theme=tokyonight&hide_border=true"
     height="180em"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=rahmanmushiuraiub&theme=tokyonight" 
+    src="https://streak-stats.demolab.com?user=rahmanmushiuraiub&theme=tokyonight&hide_border=true"
   />
 </p>
 
@@ -39,10 +39,19 @@
 
 ## 🌱 Currently Learning
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- Data Analysis
-- Backend Development
+- Machine Learning  
+- Natural Language Processing (NLP)  
+- Data Analysis  
+- Backend Development  
+
+---
+
+## 📌 Featured Projects
+
+- Smart Dashboard Analyzer  
+- AgriBot AI Chatbot  
+- ML Prediction Systems  
+- NLP Based Projects  
 
 ---
 
@@ -52,4 +61,10 @@
   <a href="https://github.com/rahmanmushiuraiub">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
 </p>
