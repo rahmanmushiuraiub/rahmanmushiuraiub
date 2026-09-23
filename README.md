@@ -124,6 +124,14 @@ Shaheed Police Smrity School & College · GPA: 5.00/5.00
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanmushiuraiub&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rahmanmushiuraiub&theme=flat&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanmushiuraiub&theme=minimal&hide_border=true" alt="Contribution Graph"/>
+</p>
+
 ## Currently
 
 - 🔭 Writing my thesis on contract drift detection in e-government OpenAPI specifications
